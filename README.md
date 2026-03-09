@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##  Author
 
-**skj198405-cmd**
+**Sujal Kumar Gautam**
 
 ##  Support
 
